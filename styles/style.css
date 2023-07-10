@@ -178,10 +178,6 @@
 .footer-column{
     margin:300px;
 }
-.social-links> a{
-    gap: 10px;
-    width:10px ;
-}
 .subscribe{
     color: #FFF;
     font-size: 25px;
